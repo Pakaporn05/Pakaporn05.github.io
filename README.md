@@ -5,8 +5,30 @@
 
 ![download banner](./banner.jpg)
 
+```
+## เริ่มต้นคำสั่ง streamli
+1.clone จาก ninasombat
+
+git clone https://github.com/ninasombat/ninasombat.github.io
+
+2.deactivate
+
+conda deactivate
+
+3.สร้างสภาพแวดล้อมใหม่
+
+python -m venv venv
+
+4.activate สภาพแวดล้อมใหม่
+
+venv/scripts/activate
+
+5.ติดตั้ง streamlit
+
+pip install streamlit
 
 ภคพร สมจันทร์
+```
 
 ## คำสั่ง git พื้นฐาน
 
