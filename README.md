@@ -5,7 +5,7 @@
 
 ![download banner](./banner.jpg)
 
-## เริ่มต้นคำสั่ง streamli
+## เริ่มต้นคำสั่ง streamlit
 
 ```
 1.clone จาก ninasombat
