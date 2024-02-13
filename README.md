@@ -5,8 +5,9 @@
 
 ![download banner](./banner.jpg)
 
-```
 ## เริ่มต้นคำสั่ง streamli
+
+```
 1.clone จาก ninasombat
 
 git clone https://github.com/ninasombat/ninasombat.github.io
