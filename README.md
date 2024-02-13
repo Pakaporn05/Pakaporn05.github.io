@@ -28,7 +28,7 @@ venv/scripts/activate
 
 pip install streamlit
 
-ภคพร สมจันทร์
+ภคพร สมจันทร์ 66114540481
 ```
 
 ## คำสั่ง git พื้นฐาน
