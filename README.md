@@ -8,9 +8,9 @@
 ## เริ่มต้นคำสั่ง streamlit
 
 ```
-1.clone จาก ninasombat
+1.clone จาก Pakaporn05
 
-git clone https://github.com/ninasombat/ninasombat.github.io
+git clone https://github.com/Pakaporn05/Pakaporn05.github.io.git
 
 2.deactivate
 
