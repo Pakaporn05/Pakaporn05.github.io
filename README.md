@@ -46,3 +46,13 @@ d = { 'Anna': 3.99, 'Betty': 3.78 }
 for k,v in d.items():
   print(k,v)
 ```
+# diffusers
+
+  pip install --upgrade diffusers[torch]
+  pip install --upgrade transformers
+
+  #คำสั่งรัน
+  Python game/app01.py
+  Python pysid6/app01.py
+  streamlit run streamlit/app02.py
+  
